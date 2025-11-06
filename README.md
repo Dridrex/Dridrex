@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adriano Praxedes</h1>
-<h3 align="center">Dev Front-End</h3>
+<h3 align="center">Dev</h3>
 
 ---
 
