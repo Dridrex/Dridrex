@@ -49,8 +49,12 @@ Atualmente, estou focado em:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dridrex&show_icons=true&theme=radical&hide_border=true" alt="stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dridrex&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="langs" height="150" />
+  <a href="https://github.com/Dridrex">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dridrex&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
+  </a>
+  <a href="https://github.com/Dridrex">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dridrex&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" height="150" />
+  </a>
 </p>
 
 ---
