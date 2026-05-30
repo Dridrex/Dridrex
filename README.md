@@ -1,74 +1,244 @@
-<h1 align="center">Olá, sou Adriano Praxedes 👋</h1>
-<h3 align="center">Python Developer | Automation Specialist | Home Lab Enthusiast</h3>
+# Adriano Praxedes
 
-<p align="center">
-  <em>Transformando processos manuais em fluxos de trabalho inteligentes.</em>
-</p>
+Desenvolvedor em formação com foco em automação, integrações, dados e infraestrutura.
 
----
+Transformo processos manuais em sistemas mais eficientes usando Python, JavaScript, APIs, n8n, PostgreSQL, Docker e IA. Tenho experiência prática com suporte técnico, resolução de chamados, automação comercial, integrações entre sistemas, SharePoint, cloud e administração de serviços self-hosted.
 
-### 👨‍💻 Sobre mim
-
-Não sou apenas um codificador, sou um construtor de soluções. Meu foco é unir a flexibilidade do **Python** com o poder de automação do **n8n** e a robustez de infraestrutura em **Docker/Proxmox**.
-
-Atualmente, estou focado em:
-* 🤖 **Automação de Processos:** Criando workflows complexos para gestão empresarial e pessoal.
-* 🧠 **Integração com IA:** Implementando LLMs (Gemini/OpenAI) em fluxos de trabalho reais.
-* 🏠 **Self-Hosting:** Gerenciamento de servidores próprios e serviços embarcados.
-* 📊 **Business Intelligence:** Transformando dados brutos em dashboards acionáveis.
+[Portfólio](https://www.adrianodev.me/) · [GitHub](https://github.com/Dridrex)
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+## Sobre mim
 
-**Core & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+Sou estudante de Sistemas de Informação na Estácio de Sá e busco minha primeira oportunidade formal em TI/desenvolvimento.
 
-**Automação & IA**
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI/Gemini](https://img.shields.io/badge/AI_Integrations-412991?style=for-the-badge&logo=openai&logoColor=white)
+Meu perfil combina experiência prática de suporte com projetos próprios de automação, APIs, dados, homelab e IA local. Tenho interesse principalmente em:
 
-**Infraestrutura & Ferramentas**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+- Desenvolvimento Python Júnior
+- Desenvolvimento Backend Júnior
+- Analista de Suporte Técnico
+- Analista de Integrações
+- Analista de Dados Júnior
+- Cloud Júnior
+- Segurança/SOC N1
+- DBA Júnior quando a vaga envolver SQL, suporte, dados e automação
 
 ---
 
-### 🚀 Projetos em Destaque
+## Principais frentes técnicas
 
-* **Assistentes Pessoais Inteligentes:** Desenvolvimento de agentes para gestão de agenda e finanças.
-* **Automação de Tratamento de Imagens:** Scripts Python para processamento em lote e watermarking corporativo.
-* **Análise de Dados Comercial:** Ferramentas customizadas para extração e inteligência de dados (ETL) a partir de planilhas complexas.
+### Automação e integrações
+
+- Workflows com n8n
+- Webhooks e APIs REST
+- Integrações com Google Sheets, SharePoint, Telegram, Discord e serviços externos
+- Processamento de dados estruturados em JSON
+- Automação de rotinas operacionais e administrativas
+
+### Backend e dados
+
+- Python, JavaScript e Node.js
+- FastAPI e APIs REST
+- PostgreSQL, MySQL e SQL
+- Modelagem de dados, consultas, relatórios e dashboards
+- Regras de negócio centralizadas no banco quando faz sentido
+
+### Infraestrutura e homelab
+
+- Ubuntu Server
+- Docker e Docker Compose
+- Cloudflare Tunnel e Cloudflare Access
+- PostgreSQL self-hosted
+- n8n self-hosted
+- Monitoramento com Uptime Kuma
+- Serviços internos documentados e versionados
+
+### IA aplicada
+
+- Assistentes locais no homelab
+- OCR de comprovantes
+- Transcrição de áudio
+- Classificação de lançamentos financeiros
+- Fluxos com LLM local para sugestão de melhorias
+- Uso de IA como camada de apoio, não como substituto de validação técnica
 
 ---
 
-### 📊 GitHub Stats
+## Projetos em destaque
 
-<p align="center">
-  <a href="https://github.com/Dridrex">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dridrex&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
-  </a>
-  <a href="https://github.com/Dridrex">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dridrex&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" height="150" />
-  </a>
-</p>
+### SETT / Hermes - Assistente local para DRE e automação pessoal
+
+Assistente hospedado no meu homelab para registrar e consultar lançamentos financeiros por conversa natural no Telegram.
+
+Recursos implementados:
+
+- Registro de despesas e receitas sem comando fixo
+- Classificação automática por categoria
+- Confirmação por botões quando falta informação
+- Consulta de saldo, categorias e últimos lançamentos
+- OCR de imagens de comprovantes
+- Transcrição de áudio com Whisper local
+- PostgreSQL como fonte de verdade
+- Registro de interações para evolução contínua da IA local
+
+Stack:
+
+```text
+Node.js · Telegram Bot API · PostgreSQL · Docker · Tesseract OCR · Whisper · LLM local
+```
 
 ---
 
-<div align="center">
+### Homelab com Docker, Cloudflare e automações
 
-  <a href="https://adrianodev.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/adrianopraxedesdev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:adrianopraxedes99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+Servidor pessoal configurado para hospedar serviços, automações e experimentos práticos de infraestrutura.
 
-</div>
+Serviços e recursos:
+
+- Easypanel
+- n8n
+- PostgreSQL
+- Uptime Kuma
+- Gitea
+- NocoDB
+- AppFlowy
+- Stirling PDF
+- Excalidraw
+- Cloudflare Tunnel
+- Cloudflare Access
+
+Objetivo:
+
+```text
+Aprender infraestrutura real, hospedar projetos próprios e criar um ambiente demonstrável para portfólio.
+```
+
+---
+
+### Chatbot de atendimento inteligente
+
+Solução de automação de atendimento com classificação de intenção e orquestração de fluxos.
+
+Principais pontos:
+
+- Classificação de intenção com IA
+- Respostas generativas
+- Fluxos complexos no n8n
+- API desacoplada para múltiplos canais
+
+Stack:
+
+```text
+Python · FastAPI · n8n · LLM · APIs REST
+```
+
+---
+
+### Rastreador de candidaturas com IA
+
+Sistema para organizar candidaturas automaticamente a partir de e-mails enviados.
+
+Principais pontos:
+
+- Leitura de e-mails via IMAP
+- Extração de informações com LLM
+- Estruturação em JSON
+- Persistência em Google Sheets
+- Organização do processo de busca por vagas
+
+Stack:
+
+```text
+n8n · Google Gemini API · Google Sheets API · JavaScript · JSON
+```
+
+---
+
+### Sistemas web e dashboards
+
+Projetos com foco em aplicações web, autenticação, CRUD, dashboards e relatórios.
+
+Exemplos:
+
+- Sistema de gestão de clientes
+- Sistema de controle de vendas
+- Site institucional para escritório de arquitetura
+
+Stack:
+
+```text
+Next.js · TypeScript · Tailwind CSS · Supabase · Prisma · PostgreSQL
+```
+
+---
+
+## Tecnologias
+
+### Linguagens
+
+```text
+Python · JavaScript · TypeScript · SQL · Bash
+```
+
+### Backend, dados e automação
+
+```text
+Node.js · FastAPI · PostgreSQL · MySQL · Prisma · Supabase · n8n · REST APIs · JSON
+```
+
+### Infraestrutura
+
+```text
+Linux · Ubuntu Server · Docker · Docker Compose · Cloudflare Tunnel · Cloudflare Access · Uptime Kuma
+```
+
+### Ferramentas
+
+```text
+Git · GitHub · VS Code · SharePoint · Google Sheets · NocoDB · AppFlowy · Gitea
+```
+
+---
+
+## O que estou construindo agora
+
+Atualmente estou evoluindo meu homelab como uma plataforma prática para:
+
+- automações reais;
+- agentes locais com IA;
+- documentação viva de infraestrutura;
+- DRE pessoal automatizado;
+- integrações com Telegram, Discord, Google Drive e PostgreSQL;
+- monitoramento e segurança defensiva;
+- projetos aplicáveis ao meu portfólio profissional.
+
+---
+
+## Como penso tecnicamente
+
+Gosto de construir soluções pequenas, úteis e verificáveis.
+
+Minhas decisões normalmente seguem estes princípios:
+
+- banco de dados como fonte de verdade;
+- automações simples antes de arquiteturas complexas;
+- logs, documentação e rastreabilidade desde o começo;
+- segurança por padrão em serviços administrativos;
+- IA como apoio à produtividade, mas com validação determinística;
+- projetos práticos que resolvem problemas reais.
+
+---
+
+## Objetivo profissional
+
+Busco uma oportunidade júnior onde eu possa aplicar minha base em suporte técnico, automação, APIs, dados e infraestrutura.
+
+Tenho facilidade em investigar problemas, documentar soluções, aprender ferramentas novas e transformar demandas operacionais em processos mais eficientes.
+
+---
+
+## Contato
+
+- Portfólio: [adrianodev.me](https://www.adrianodev.me/)
+- GitHub: [github.com/Dridrex](https://github.com/Dridrex)
+
