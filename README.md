@@ -31,9 +31,9 @@
 
 ## Quem sou
 
-Sou estudante de Sistemas de Informação na Estácio de Sá e busco minha primeira oportunidade formal em TI/desenvolvimento.
+Sou estudante de Sistemas de Informação na Estácio de Sá e atuo formalmente no setor de TI, com suporte a usuários, manutenção de soluções internas, infraestrutura, treinamentos e apoio no uso de ferramentas de terceiros.
 
-Meu perfil combina suporte técnico, automação, integrações entre sistemas, APIs REST, bancos de dados, cloud e resolução prática de problemas. Gosto de construir soluções pequenas, úteis e verificáveis, com foco em reduzir retrabalho e organizar melhor a operação.
+Meu objetivo é avançar para uma função com foco maior em desenvolvimento, automação, integrações e dados, aproveitando minha base real em suporte técnico, operação, APIs REST, bancos de dados, cloud e resolução prática de problemas.
 
 ## Onde gero valor
 
@@ -98,9 +98,18 @@ PostgreSQL • MySQL • SQL • Docker • Linux • AWS • Azure
 n8n • GitHub • Supabase • Firebase • SharePoint • REST APIs
 ```
 
+## Soft skills
+
+- Comunicação clara com usuários, equipes e áreas não técnicas
+- Resolução de problemas com abordagem prática e investigativa
+- Organização para estruturar processos, demandas e documentação
+- Aprendizado rápido de ferramentas, fluxos e ambientes novos
+- Colaboração em contextos de suporte, operação e melhoria contínua
+- Adaptabilidade para transitar entre suporte técnico, automação, dados e infraestrutura
+
 ## Objetivo atual
 
-Busco oportunidades como:
+Busco oportunidades que conectem minha experiência atual em TI com desenvolvimento, automação, integrações, dados e cloud:
 
 - Desenvolvedor Júnior
 - Desenvolvedor Python Júnior
@@ -124,7 +133,7 @@ Busco oportunidades como:
 
 Junior developer focused on automation, integrations, APIs, data, cloud, and technical support.
 
-I am an Information Systems student looking for my first formal opportunity in IT/software development. My profile combines technical support, automation, backend fundamentals, databases, cloud, and practical problem solving.
+I am an Information Systems student already working formally in IT, supporting users, maintaining internal solutions, helping with infrastructure, training users, and troubleshooting third-party tools. I am looking to move toward roles with stronger focus on software development, automation, integrations, and data.
 
 Main focus areas:
 
